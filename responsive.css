@@ -1,0 +1,37 @@
+@media only screen and (max-width: 1365px) {
+  .floor-plan-tab-container{padding-left:0; padding-right: 0;}
+
+}
+
+@media only screen and (max-width: 1279px) and (min-width: 993px)  {
+  .site-header .nav-link{font-size: 13px; padding: 0; white-space: nowrap;}
+  .site-header .mobile-number{font-size: 14px;}  
+}
+@media only screen and (max-width: 1279px) {
+  .hero-form-container{position: static; height: auto; width: auto; background: #000;}
+
+}
+
+@media only screen and (max-width: 993px) {
+  .mobile-number{margin-left: 0 !important;}
+  .mobile-number a{display: block;} 
+  .pt-180{padding-top: 140px;}
+
+}
+
+@media only screen and (max-width: 767px) {
+  .btn-download{display: block;}
+  
+}
+
+@media only screen and (max-width: 600px) {
+  .site-footer{padding-bottom: 60px;}
+  .footer-cta-section{display: block;}
+  
+  
+}
+
+@media only screen and (max-width: 480px) {
+.schedule-site-visit span{display: block;  padding: 6px 0;}
+.footer-cta-section a{font-size:14px;}
+}
